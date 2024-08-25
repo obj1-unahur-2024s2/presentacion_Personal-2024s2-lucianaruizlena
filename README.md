@@ -4,9 +4,10 @@
 ![Hi](https://media1.tenor.com/m/BZeFVXMMgh0AAAAC/sad-hi.gif)
 
 ### Información de poca relevancia:
-* Me dicen Lola (aunque me llame Luciana y no tenga nada que ver el apodo). 
+* Me dicen Lola (me llamo Luciana y no tiene nada que ver el apodo). 
 * Tengo 23 años. 
 * Mi carrera base era medicina, no sé qué hago acá pero me gusta.
+* Disfruto bastante dibujar.
 * Trabajo toda la mañana y tarde, así que cuando curso estoy así: :zzz:.
 
 
