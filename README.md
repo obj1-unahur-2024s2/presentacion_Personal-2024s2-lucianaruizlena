@@ -7,7 +7,7 @@
 * Me dicen Lola (me llamo Luciana y no tiene nada que ver el apodo). 
 * Tengo 23 años. 
 * Mi carrera base era medicina, no sé qué hago acá pero me gusta.
-* Disfruto bastante dibujar.
+* Dibujo bastante, pero es algo que tengo más como hobbie que como trabajo.
 * Trabajo toda la mañana y tarde, así que cuando curso estoy así: :zzz:.
 
 
