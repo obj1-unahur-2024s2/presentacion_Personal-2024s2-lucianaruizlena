@@ -1,35 +1,17 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
+ 
+## Luciana Ruiz Lena
+![Hi](https://media1.tenor.com/m/BZeFVXMMgh0AAAAC/sad-hi.gif)
 
-Bienvenidxs a
-# Programación con objetos I
+### Información de poca relevancia:
+* Me dicen Lola (aunque me llame Luciana y no tenga nada que ver el apodo). 
+* Tengo 23 años. 
+* Mi carrera base era medicina, no sé qué hago acá pero me gusta.
+* Trabajo toda la mañana y tarde, así que cuando curso estoy así: :zzz:.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+### Información de mucha relevancia:
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+* [Música bonita](https://www.youtube.com/watch?v=8u1vfsNpVpA) para evangelizar.
+* [Serie insoportable](https://www.netflix.com/search?q=glimo&jbv=70155618) pero recomendadísima.
+* [Algo que quiero de regalo para mi cumpleaños](https://i.pinimg.com/736x/0d/a0/b1/0da0b1f763d5ae5a2747a61f5a898ebc.jpg). (No optativo)
